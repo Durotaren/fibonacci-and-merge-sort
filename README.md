@@ -29,32 +29,3 @@ This version demonstrates how recursion can be used to build up results without 
 Implements the merge sort algorithm using the classic divide-and-conquer method.  
 The function splits the array into halves recursively, sorts each half, and then merges them back together into a new sorted array.  
 Merge sort guarantees O(n log n) performance and is stable.
-
----
-
-## 🧪 Running the Project
-
-You can run the file using Node.js. Simply execute the script that contains the functions and logs any output.
-
----
-
-## 🎯 Purpose of This Project
-
-This mini-project is designed to:
-
-- Strengthen understanding of recursion and iteration
-- Build confidence working with array manipulation
-- Introduce a fundamental sorting algorithm (merge sort)
-- Provide clean and simple algorithm examples for portfolio or study reference
-
----
-
-## 🤝 Contributions
-
-This is a learning-focused project. Feel free to fork it and expand on the algorithms, add performance comparisons, or explore additional data structures.
-
----
-
-## 📜 License
-
-You may use any standard open-source license such as MIT.
