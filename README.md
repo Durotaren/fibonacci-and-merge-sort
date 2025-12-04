@@ -1,2 +1,60 @@
-# fibonacci-and-merge-sort
-A simple JavaScript algorithms project featuring iterative Fibonacci, recursive Fibonacci (array-building version), and merge sort. All functions are implemented with clean logic and return result arrays.
+# JavaScript Algorithms: Fibonacci & Merge Sort
+
+This project contains three algorithm implementations written in JavaScript:
+
+- Iterative Fibonacci (returns an array of Fibonacci numbers)
+- Recursive Fibonacci using an accumulator array
+- Merge Sort implemented with divide-and-conquer
+
+The project focuses on practicing recursion, iteration, and array operations in JavaScript.
+
+---
+
+## 📘 Included Algorithms
+
+### Iterative Fibonacci
+
+Generates the Fibonacci sequence using a loop.  
+It starts with `[0, 1]` and builds the sequence forward until it reaches the desired length.  
+This approach is efficient, easy to read, and runs in linear time.
+
+### Recursive Fibonacci
+
+Generates the Fibonacci sequence using recursion and an accumulator array.  
+Each recursive call extends the sequence by adding the last two numbers until the array reaches the target length.  
+This version demonstrates how recursion can be used to build up results without redundant computations.
+
+### Merge Sort
+
+Implements the merge sort algorithm using the classic divide-and-conquer method.  
+The function splits the array into halves recursively, sorts each half, and then merges them back together into a new sorted array.  
+Merge sort guarantees O(n log n) performance and is stable.
+
+---
+
+## 🧪 Running the Project
+
+You can run the file using Node.js. Simply execute the script that contains the functions and logs any output.
+
+---
+
+## 🎯 Purpose of This Project
+
+This mini-project is designed to:
+
+- Strengthen understanding of recursion and iteration
+- Build confidence working with array manipulation
+- Introduce a fundamental sorting algorithm (merge sort)
+- Provide clean and simple algorithm examples for portfolio or study reference
+
+---
+
+## 🤝 Contributions
+
+This is a learning-focused project. Feel free to fork it and expand on the algorithms, add performance comparisons, or explore additional data structures.
+
+---
+
+## 📜 License
+
+You may use any standard open-source license such as MIT.
