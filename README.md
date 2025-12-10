@@ -10,7 +10,7 @@ The project focuses on practicing recursion, iteration, and array operations in 
 
 ---
 
-## 📘 Included Algorithms
+## Included Algorithms
 
 ### Iterative Fibonacci
 
